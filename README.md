@@ -1,4 +1,4 @@
-# KWON2-PRJ1
+# PRJ9
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin http://gitlab.tst.console.trombone.okestro.cloud/KWON2/KWON2-PRJ1.git
+git remote add origin http://gitlab.dev.trb.com/KHH/PRJ9.git
 git branch -M prd
 git push -uf origin prd
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://gitlab.tst.console.trombone.okestro.cloud/KWON2/KWON2-PRJ1/-/settings/integrations)
+- [ ] [Set up project integrations](http://gitlab.dev.trb.com/KHH/PRJ9/-/settings/integrations)
 
 ## Collaborate with your team
 
