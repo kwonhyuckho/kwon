@@ -1,5 +1,5 @@
 # Use an official OpenJDK runtime as a parent image
-FROM harbor.tst.console.trombone.okestro.cloud/library/maven:3.8.5-jdk-17
+FROM 306dev.harbor.bf.okestro.cloud/cicd-image/maven:3.9.11-temurin-21
 
 # Set the working directory in the container
 WORKDIR /app
