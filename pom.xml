@@ -10,8 +10,8 @@
 
     <properties>
         <!-- Java Version -->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <!-- Spring Boot Version -->
         <spring-boot.version>2.5.4</spring-boot.version>
         <!-- Jackson Version -->
@@ -61,6 +61,7 @@
                     <target>${maven.compiler.target}</target>
                 </configuration>
             </plugin>
+
             <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
